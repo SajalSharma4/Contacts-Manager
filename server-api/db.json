@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "d42d1eb9-1ad4-4765-9676-5cd4587ff3c4",
+      "name": "Abhay",
+      "email": "abhay@gmail.com"
+    },
+    {
+      "id": "98d7f9db-ee6f-40c2-aa30-7180a8f9a3cc",
+      "name": "Bhavya",
+      "email": "bhav43@yahoo.com"
+    },
+    {
+      "id": "c0b4130d-9b79-42e8-83b9-74989fd563e8",
+      "name": "Yashraj Singh",
+      "email": "yashsingh@gmail.com"
+    },
+    {
+      "id": "b5724d06-842d-44a3-a8d1-3132b1c0b969",
+      "name": "Prashant Diwedi",
+      "email": "pdiwedi@gmail.com"
+    }
+  ]
+}
