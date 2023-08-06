@@ -7,6 +7,7 @@ This project is a web based application created using Reactjs and RestAPI. It ca
 4. Delete contact
 5. Search contacts
 
+
 Snapshots->
 ![image](https://user-images.githubusercontent.com/79101773/224403697-e1f81d1d-090a-4c2e-ab47-741908a3d571.png)
 
